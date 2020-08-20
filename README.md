@@ -16,7 +16,7 @@ Content creator for both [Rocketseat Channel](https://www.youtube.com/watch?v=x4
 
 - 💬 Ask me about technologies, mindfulness and _eSports_.
 
-- 📫 How to reach me: _guilherme.rodrigues.profissional@gmail.com.
+- 📫 How to reach me: _guilherme.rodrigues.profissional@gmail.com_
 
 - 🎮 Fun fact: I've been a semi-professional eSports player in the past.
 
